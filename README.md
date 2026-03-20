@@ -5,8 +5,9 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-> A collection of Machine Learning notebooks covering Regression, Classification, and Data Transformation techniques.
+> A collection of Machine Learning notebooks covering Regression, Classification, Data Transformation, and SVM techniques.
 
 ---
 
@@ -36,6 +37,25 @@
 
 ---
 
+### 📓 4. Support Vector Machine (SVM)
+- **Dataset:** Pharma Industry
+- **Goal:** Classify pharma data using SVM algorithm
+- **Techniques:** EDA, SVM classification, model evaluation
+- **Libraries:** Pandas, Matplotlib, Seaborn, Scikit-learn
+
+---
+
+## 📊 Topics Covered
+
+| Topic | Notebook |
+|-------|----------|
+| Multiple Linear Regression | `7_MULTIPLE_LINEAR_REGRESSION.ipynb` |
+| Logistic Regression | `8_Logistic_Regression.ipynb` |
+| Data Transformations | `9_Data_Transformations.ipynb` |
+| Support Vector Machine | `10_SVM__1_.ipynb` |
+
+---
+
 ## 🛠️ How to Run
 
 ```bash
@@ -48,16 +68,6 @@ cd ML-Notebooks
 # Launch Jupyter
 jupyter notebook
 ```
-
----
-
-## 📊 Topics Covered
-
-| Topic | Notebook |
-|-------|----------|
-| Multiple Linear Regression | `7_MULTIPLE_LINEAR_REGRESSION.ipynb` |
-| Logistic Regression | `8_Logistic_Regression.ipynb` |
-| Data Transformations | `9_Data_Transformations.ipynb` |
 
 ---
 
